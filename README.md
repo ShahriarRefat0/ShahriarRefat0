@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shahriar Rahman Refat</h1>
 <h3 align="center">A passionate web developer from Bangladesha</h3>
 
+<p align="center">
+  <img src="./asset/profile-banner.svg" width="100%" alt="Profile Banner" />
+</p>
+
 ## 👨‍💻 About Me
 
 I am **Shahriar Rahman Refat**, an aspiring **MERN Stack Developer** with a strong focus on building clean, responsive, and user-centric web applications. I am committed to continuous learning and dedicated to developing scalable solutions using modern JavaScript technologies.
