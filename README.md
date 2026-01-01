@@ -85,12 +85,12 @@ I enjoy working across both frontend and backend, writing efficient code, and fo
   <img 
     src="https://github-readme-streak-stats-eight.vercel.app/?user=ShahriarRefat0&theme=tokyonight&hide_border=true&ring=7aa2f7&fire=bb9af7&currStreakLabel=c0caf5&dates=a9b1d6"
     alt="GitHub Streak Stats"
-    height="195"
+    height="166"
   />
   <img 
     src="https://github-readme-stats-ten-olive-80.vercel.app/api?username=ShahriarRefat0&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&text_color=c0caf5&icon_color=7aa2f7&title_color=7aa2f7&include_all_commits=true&count_private=true"
     alt="GitHub Stats"
-    height="195"
+    height="166"
   />
 </p>
 
