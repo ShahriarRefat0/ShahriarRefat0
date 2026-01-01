@@ -132,7 +132,6 @@ I enjoy working across both frontend and backend, writing efficient code, and fo
 
 <br/><br/>
 
-### 🐍 Contribution Snake
 <p align="center">
   <img src="./asset/snakegridtitle.gif" width="500" alt="Snake Grid Title">
   <br/><br/>
