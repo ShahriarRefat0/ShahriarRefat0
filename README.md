@@ -28,19 +28,19 @@ I enjoy working across both frontend and backend, writing efficient code, and fo
 
 <p align="center">
   <a href="https://linkedin.com/in/shahriar-rahman-refat" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="./asset/linkedin-svgrepo-com.svg" alt="LinkedIn" width="60" height="60"/>
   </a>
   <a href="mailto:shahariarrefat@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="./asset/gmail-svgrepo-com.svg" alt="Email" width="60" height="60"/>
   </a>
   <a href="https://facebook.com/shahriarrefat0" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
+    <img src="./asset/facebook-svgrepo-com.svg" alt="Facebook" width="60" height="60"/>
   </a>
   <a href="https://instagram.com/shahriar_refat" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+    <img src="./asset/instagram-svgrepo-com.svg" alt="Instagram" width="60" height="60"/>
   </a>
   <a href="https://discord.gg/725377403765129246" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+    <img src="./asset/discord-svgrepo-com.svg" alt="Discord" width="60" height="60"/>
   </a>
 </p>
 
@@ -79,26 +79,20 @@ I enjoy working across both frontend and backend, writing efficient code, and fo
 
 <div align="center">
 
-### 🔥 Contribution Streak
-<img 
-  src="https://github-readme-streak-stats-eight.vercel.app/?user=ShahriarRefat0&theme=tokyonight&hide_border=true&ring=7aa2f7&fire=bb9af7&currStreakLabel=c0caf5&dates=a9b1d6"
-  alt="GitHub Streak Stats"
-  width="600"
-/>
+### 🔥 Contribution Streak & 📈 GitHub Stats
 
-<br/><br/>
-
-### 📈 GitHub Stats & Languages
-<img 
-  src="https://github-readme-stats-ten-olive-80.vercel.app/api?username=ShahriarRefat0&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&text_color=c0caf5&icon_color=7aa2f7&title_color=7aa2f7&include_all_commits=true&count_private=true"
-  alt="GitHub Stats"
-  height="180"
-/>
-<img 
-  src="https://github-readme-stats-ten-olive-80.vercel.app/api/top-langs/?username=ShahriarRefat0&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&layout=compact&custom_title=Most%20Used%20Languages&text_color=c0caf5&title_color=7aa2f7&langs_count=8"
-  alt="Top Languages"
-  height="180"
-/>
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=ShahriarRefat0&theme=tokyonight&hide_border=true&ring=7aa2f7&fire=bb9af7&currStreakLabel=c0caf5&dates=a9b1d6"
+    alt="GitHub Streak Stats"
+    height="195"
+  />
+  <img 
+    src="https://github-readme-stats-ten-olive-80.vercel.app/api?username=ShahriarRefat0&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&text_color=c0caf5&icon_color=7aa2f7&title_color=7aa2f7&include_all_commits=true&count_private=true"
+    alt="GitHub Stats"
+    height="195"
+  />
+</p>
 
 <br/><br/>
 
@@ -139,12 +133,11 @@ I enjoy working across both frontend and backend, writing efficient code, and fo
 <br/><br/>
 
 ### 🐍 Contribution Snake
-<img 
-  src="./assets/snakegridtitle.gif" 
-  alt="Snake Animation"
-  width="100%"
-/>
-
+<p align="center">
+  <img src="./assets/snakegridtitle.gif" width="500" alt="Snake Grid Title">
+  <br/>
+  <img src="https://raw.githubusercontent.com/ShahriarRefat0/ShahriarRefat0/output/github-snake-dark.svg" width="100%" alt="Contribution Snake">
+</p>
 </div>
 
 ---
