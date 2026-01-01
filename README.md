@@ -134,10 +134,9 @@ I enjoy working across both frontend and backend, writing efficient code, and fo
 
 ### 🐍 Contribution Snake
 <p align="center">
-  <img src="./assets/snakegridtitle.gif" width="500" alt="Snake Grid Title">
-  <br/>
-  <img src="https://raw.githubusercontent.com/ShahriarRefat0/ShahriarRefat0/output/github-contribution-grid-snake.svg" />
-
+  <img src="./asset/snakegridtitle.gif" width="500" alt="Snake Grid Title">
+  <br/><br/>
+  <img src="https://raw.githubusercontent.com/ShahriarRefat0/ShahriarRefat0/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake">
 </p>
 </div>
 
