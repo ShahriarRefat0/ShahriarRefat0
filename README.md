@@ -136,7 +136,8 @@ I enjoy working across both frontend and backend, writing efficient code, and fo
 <p align="center">
   <img src="./assets/snakegridtitle.gif" width="500" alt="Snake Grid Title">
   <br/>
-  <img src="https://raw.githubusercontent.com/ShahriarRefat0/ShahriarRefat0/output/github-snake-dark.svg" width="100%" alt="Contribution Snake">
+  <img src="https://raw.githubusercontent.com/ShahriarRefat0/ShahriarRefat0/output/github-contribution-grid-snake.svg" />
+
 </p>
 </div>
 
