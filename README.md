@@ -27,22 +27,20 @@ I enjoy working across both frontend and backend, writing efficient code, and fo
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/shahriar-rahman-refat" target="_blank">
-    <img src="./asset/linkedin-svgrepo-com.svg" alt="LinkedIn" width="60" height="60"/>
-  </a>
-  <a href="mailto:shahariarrefat@gmail.com">
-    <img src="./asset/gmail-svgrepo-com.svg" alt="Email" width="60" height="60"/>
-  </a>
-  <a href="https://facebook.com/shahriarrefat0" target="_blank">
-    <img src="./asset/facebook-svgrepo-com.svg" alt="Facebook" width="60" height="60"/>
-  </a>
-  <a href="https://instagram.com/shahriar_refat" target="_blank">
-    <img src="./asset/instagram-svgrepo-com.svg" alt="Instagram" width="60" height="60"/>
-  </a>
-  <a href="https://discord.gg/725377403765129246" target="_blank">
-    <img src="./asset/discord-svgrepo-com.svg" alt="Discord" width="60" height="60"/>
-  </a>
-</p>
+<a href="https://shahriar-refat.me/" target="_blank">
+  <img src="./asset/profile-portfolio-svgrepo-com.svg" width="60" height="60">
+</a><a href="https://linkedin.com/in/shahriar-rahman-refat" target="_blank">
+  <img src="./asset/linkedin-svgrepo-com.svg" width="60" height="60">
+</a><a href="mailto:shahariarrefat@gmail.com">
+  <img src="./asset/gmail-svgrepo-com.svg" width="60" height="60">
+</a><a href="https://facebook.com/shahriarrefat0" target="_blank">
+  <img src="./asset/facebook-svgrepo-com.svg" width="60" height="60">
+</a><a href="https://instagram.com/shahriar_refat" target="_blank">
+  <img src="./asset/instagram-svgrepo-com.svg" width="60" height="60">
+</a><a href="https://discord.gg/725377403765129246" target="_blank">
+  <img src="./asset/discord-svgrepo-com.svg" width="60" height="60">
+</a>
+</p>  
 
 ---
 
