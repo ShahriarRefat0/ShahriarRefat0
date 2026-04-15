@@ -171,11 +171,27 @@ React.js, Node.js, Express.js, MongoDB, Firebase, JWT, Stripe
 <br/><br/>
 
 ### 📊 Detailed Contribution Analysis
+
+<table>
+<tr>
+<td width="50%">
+
 <img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShahriarRefat0&theme=tokyonight"
-  alt="Profile Details"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=ShahriarRefat0&bg_color=1a1b27&color=c0caf5&line=7aa2f7&point=bb9af7&area=true&hide_border=true"
   width="100%"
 />
+
+</td>
+<td width="50%">
+
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShahriarRefat0&theme=tokyonight"
+  width="100%"
+/>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -193,15 +209,6 @@ React.js, Node.js, Express.js, MongoDB, Firebase, JWT, Stripe
   src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShahriarRefat0&theme=tokyonight&utcOffset=+6"
   alt="Productive Time"
   width="32%"
-/>
-
-<br/><br/>
-
-### 📊 Contribution Activity Graph
-<img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=ShahriarRefat0&bg_color=1a1b27&color=c0caf5&line=7aa2f7&point=bb9af7&area=true&hide_border=true"
-  alt="Activity Graph"
-  width="100%"
 />
 
 <br/><br/>
