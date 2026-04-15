@@ -81,6 +81,74 @@ I enjoy working across both frontend and backend, writing efficient code, and fo
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ---
 
+## 🚀 Featured Projects
+
+---
+
+### 🟢 Schoology BD – School Management SaaS
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://your-image-link-here.png" alt="Schoology BD" width="100%" />
+
+</td>
+<td width="50%">
+
+**Multi-tenant School Management System**
+
+A scalable SaaS platform where multiple schools can manage their operations independently with secure role-based dashboards.
+
+**Core Features:**
+- Multi-school (multi-tenant) architecture  
+- 6 Role-based dashboards (Admin, Principal, Teacher, Student, Parent, Accountant)  
+- Secure authentication with Supabase  
+- Academic, financial & administrative management  
+
+**Tech Stack:**  
+Next.js, TypeScript, Supabase, PostgreSQL, Prisma, Tailwind CSS  
+
+🔗 [Live App](https://school-management-ruby-omega.vercel.app/) | [Client](https://github.com/ShahriarRefat0/School-management.git)
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🔵 Book2Door – Book Delivery Platform
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://your-image-link-here.png" alt="Book2Door" width="100%" />
+
+</td>
+<td width="50%">
+
+**Online Book Delivery System**
+
+A full-stack web application that allows users to browse, order, and manage books with secure authentication and role-based dashboards.
+
+**Core Features:**
+- Role-based dashboards (Admin, Librarian, Customer)  
+- Secure authentication & authorization  
+- Book browsing & order management  
+- Payment integration system  
+
+**Tech Stack:**  
+React.js, Node.js, Express.js, MongoDB, Firebase, JWT, Stripe  
+
+🔗 [Client](https://github.com/ShahriarRefat0/Book2Door-client.git)
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 📊 GitHub Statistics
 
 <div align="center">
