@@ -19,7 +19,7 @@ I enjoy working across both frontend and backend, writing efficient code, and fo
 - 🧹 Clean code, performance optimization, and best practices  
 - 💡 Real-world project development and problem-solving  
 
-**Currently focusing on:** React, Node.js, Express, MongoDB  
+**Currently focusing on:** React, Node.js, Express, MongoDB, PostgreSQL, AI-integration   
 **Professional goal:** Full-stack MERN Developer  
 
 ---
@@ -91,7 +91,7 @@ I enjoy working across both frontend and backend, writing efficient code, and fo
 <tr>
 <td width="50%">
 
-<img src="https://your-image-link-here.png" alt="Schoology BD" width="100%" />
+<img src="./asset/school.png" alt="Schoology BD" width="100%" />
 
 </td>
 <td width="50%">
@@ -109,7 +109,7 @@ A scalable SaaS platform where multiple schools can manage their operations inde
 **Tech Stack:**  
 Next.js, TypeScript, Supabase, PostgreSQL, Prisma, Tailwind CSS  
 
-🔗 [Live App](https://school-management-ruby-omega.vercel.app/) | [Client](https://github.com/ShahriarRefat0/School-management.git)
+🔗 [Live App](https://school-management-ruby-omega.vercel.app/) | [Repo](https://github.com/ShahriarRefat0/School-management.git)
 
 </td>
 </tr>
@@ -121,11 +121,6 @@ Next.js, TypeScript, Supabase, PostgreSQL, Prisma, Tailwind CSS
 
 <table>
 <tr>
-<td width="50%">
-
-<img src="https://your-image-link-here.png" alt="Book2Door" width="100%" />
-
-</td>
 <td width="50%">
 
 **Online Book Delivery System**
@@ -141,7 +136,12 @@ A full-stack web application that allows users to browse, order, and manage book
 **Tech Stack:**  
 React.js, Node.js, Express.js, MongoDB, Firebase, JWT, Stripe  
 
-🔗 [Client](https://github.com/ShahriarRefat0/Book2Door-client.git)
+🔗 [Client](https://github.com/ShahriarRefat0/Book2Door-client.git) | [Repo](https://book2-door-client.vercel.app/)
+
+</td>
+<td width="50%">
+
+<img src="./asset/book.png" alt="Book2Door" width="100%" />
 
 </td>
 </tr>
