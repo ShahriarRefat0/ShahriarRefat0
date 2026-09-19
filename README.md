@@ -7,7 +7,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me. 
 
 I am **Shahriar Rahman Refat**, an aspiring **MERN Stack Developer** with a strong focus on building clean, responsive, and user-centric web applications. I am committed to continuous learning and dedicated to developing scalable solutions using modern JavaScript technologies.
 
